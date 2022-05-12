@@ -1,9 +1,9 @@
-### Hi there 👋
+
+## Hi there, I am Luís Ribeiro 👋 
+
+### About Me 🤙 
 
 Hello, my name is Luís Ribeiro and I am a 19 year old Software Engineer student, welcome to my GitHub page!
-
-#### About Me
-
 At this moment I am studying Software Engineering at ISEP (Instituto Superior de Engenharia do Porto) in Porto, Portugal.
 
 I am looking foward to ending the Licenciature and starting a Master Degree's, with it being either on Artificial Intelligence or on Software Development.
@@ -12,7 +12,7 @@ Another possibility for my future would be studying about Game Development, beca
 * Programming Languages: Java, C, SQL, PlantUML, Markdown, HTML (with CSS).
 * Languages: Portuguese (Native) and English (Fluent).
 
-#### What am I doing?
+### What am I doing? 🎯
 
 At this moment I am developing Software on a University Project.
 After finishing this Project (and finishing the Final Exams), I will proceed to create a small website (making use of JavaScript) and some applications (still to be decided).
