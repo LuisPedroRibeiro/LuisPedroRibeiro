@@ -9,7 +9,7 @@ At this moment I am studying Software Engineering at ISEP (Instituto Superior de
 I am looking foward to ending the Degree and starting a Master Degree's, with it being either on Artificial Intelligence or on Software Development.
 Another possibility for my future would be studying about Game Development, because it was always an area of Informatics that interested me.
 
-* Programming Languages: Java, C, SQL, HTML (with CSS).
+* Programming Languages: Java, JavaScript (and TypeScript), C, Prolog, SQL, HTML (with CSS).
 * Skills: PlantUML (Design), Markdown, Scrum, PowerPoint and Excel.
 * Languages: Portuguese (Native) and English (Fluent).
 
