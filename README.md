@@ -3,7 +3,7 @@
 
 ### About Me 🤙 
 
-Hello, my name is Luís Ribeiro and I am a 19 year old Software Engineer student, welcome to my GitHub page!
+Hello, my name is Luís Ribeiro and I am a 20 year old Software Engineer student, welcome to my GitHub page!
 At this moment I am studying Software Engineering at ISEP (Instituto Superior de Engenharia do Porto) in Porto, Portugal.
 
 I am looking foward to ending the Degree and starting a Master Degree's, with it being either on Artificial Intelligence or on Software Development.
